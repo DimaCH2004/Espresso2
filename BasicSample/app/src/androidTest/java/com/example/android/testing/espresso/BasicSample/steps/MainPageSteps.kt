@@ -8,7 +8,7 @@ import com.example.android.testing.espresso.BasicSample.typeText
 import org.junit.Assert
 import androidx.test.espresso.Espresso.onView
 
-class MainPageSteps {
+object MainPageSteps {
     fun inputText(text: String):MainPageSteps{
         with(MainPage){
             TEXT_INPUT_FIELD.typeText(text)
