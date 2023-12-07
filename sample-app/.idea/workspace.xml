@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9bdf18d-3fc3-4092-80c6-ed545e64d409" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../BasicSample/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicSample/BUILD.bazel" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicSample/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicSample/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicSample/app/src/androidTest/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicSample/app/src/androidTest/java/com/example/android/testing/espresso/BasicSample/ChangeTextBehaviorKtTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicSample/app/src/androidTest/java/com/example/android/testing/espresso/BasicSample/ChangeTextBehaviorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicSample/app/src/androidTest/java/com/example/android/testing/espresso/BasicSample/CustomViewActions.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicSample/app/src/androidTest/java/com/example/android/testing/espresso/BasicSample/data/Data.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicSample/app/src/androidTest/java/com/example/android/testing/espresso/BasicSample/pages/ActivityChangePage.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicSample/app/src/androidTest/java/com/example/android/testing/espresso/BasicSample/pages/MainPage.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicSample/app/src/androidTest/java/com/example/android/testing/espresso/BasicSample/steps/ActivityChangePageSteps.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicSample/app/src/androidTest/java/com/example/android/testing/espresso/BasicSample/steps/MainPageSteps.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicSample/app/src/androidTest/java/com/example/android/testing/espresso/BasicSample/tests/ChangeTextTests.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicSample/app/src/androidTest/java/com/example/android/testing/espresso/BasicSample/tests/RecordedEspressoTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicSample/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicSample/app/src/main/AppManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicSample/app/src/main/java/com/example/android/testing/espresso/BasicSample/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicSample/app/src/main/java/com/example/android/testing/espresso/BasicSample/ShowTextActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicSample/app/src/main/res/drawable-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicSample/app/src/main/res/drawable-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicSample/app/src/main/res/drawable-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicSample/app/src/main/res/drawable-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicSample/app/src/main/res/drawable-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicSample/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicSample/app/src/main/res/layout/activity_show_text.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicSample/app/src/main/res/values-v13/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicSample/app/src/main/res/values-v21/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicSample/app/src/main/res/values-w820dp/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicSample/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicSample/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicSample/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicSample/app/src/test/java/com/example/android/testing/espresso/BasicSample/ChangeTextBehaviorLocalTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicSample/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicSample/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicSample/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicSample/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicSample/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicSample/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicSample/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2ZDTumYDSe9390sw8cB0OKeWSc5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "C:/Users/User/OneDrive - Kutaisi International University/Desktop/Espresso2"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9bdf18d-3fc3-4092-80c6-ed545e64d409" name="Changes" comment="" />
+      <created>1701955876633</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701955876633</updated>
+    </task>
+    <servers />
+  </component>
+</project>
