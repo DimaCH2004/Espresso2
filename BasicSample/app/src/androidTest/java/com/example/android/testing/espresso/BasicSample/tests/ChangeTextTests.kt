@@ -15,25 +15,26 @@ class ChangeTextTests {
     @get:Rule
     var activityRule = activityScenarioRule<MainActivity>()
 
-    private val mainPageSteps = MainPageSteps()
-    private val activityChangePageSteps = ActivityChangePageSteps()
-
     @Test
     fun testChangeText() {
-        mainPageSteps
-            .inputText(Data.NAME)
-            .tapChangeTextBt()
-            .checkDisplayedText(Data.NAME)
+        with(MainPageSteps) {
+            inputText(Data.NAME)
+                .tapChangeTextBt()
+                .checkDisplayedText(Data.NAME)
+        }
     }
     @Test
     fun testChangeTextTwice() {
-        mainPageSteps
-            .inputText(Data.MOVIE_NAME_ONE)
-            .tapChangeTextBt()
-            .checkDisplayedText(Data.MOVIE_NAME_ONE)
-            .clearText()
-            .inputText(Data.MOVIE_NAME_TWO)
-            .tapTextViewBt()
-        activityChangePageSteps.checkTextViewText(Data.MOVIE_NAME_TWO)
+        with(MainPageSteps) {
+            inputText(Data.MOVIE_NAME_ONE)
+                .tapChangeTextBt()
+                .checkDisplayedText(Data.MOVIE_NAME_ONE)
+                .clearText()
+                .inputText(Data.MOVIE_NAME_TWO)
+                .tapTextViewBt()
+        }
+        with(ActivityChangePageSteps) {
+            checkTextViewText(Data.MOVIE_NAME_TWO)
+        }
     }
 }
