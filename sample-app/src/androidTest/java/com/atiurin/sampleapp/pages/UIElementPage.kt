@@ -11,11 +11,13 @@ object UIElementPage {
 
     val radioBtnInvisible: Matcher<View> by lazy { withId(R.id.invisible) }
     val radioBtnVisible: Matcher<View> by lazy { withText("VISIBLE") }
-    val nameChandler: Matcher<View> by lazy { Matchers.allOf(withId(R.id.tv_name), withText("Chandler Bing")) }
-    val messageInputText: Matcher<View> by lazy { Matchers.allOf(
-        withId(R.id.message_input_text),
-        withText("Enter text")
-    ) }
+    val nameEmmet: Matcher<View> by lazy { Matchers.allOf(withId(R.id.tv_name), withText("Emmet Brown")) }
+    val messageInputText: Matcher<View> by lazy {
+        Matchers.allOf(
+            withId(R.id.message_input_text),
+            withText("Enter text")
+        )
+    }
     val textInput: Matcher<View> by lazy { Matchers.allOf(withId(R.id.message_input_text)) }
     val clearTextOption: Matcher<View> by lazy { withClassName(CoreMatchers.`is`("android.widget.ImageView")) }
     val sendButton: Matcher<View> by lazy { withId(R.id.send_button) }
